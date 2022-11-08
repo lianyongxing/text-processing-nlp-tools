@@ -1,2 +1,5 @@
-.idea/*
+.idea/vcs.xml
 .idea/.gitignore
+.idea
+*/__pycache__/
+__pycache__/
