@@ -3,7 +3,7 @@
 # @Author  : LIANYONGXING
 # @FileName: yanwenzi.py
 # @Software: PyCharm
-# @Repo    : https://github.com/lianyongxing/
+# @Repo    : https://github.com/lianyongxing/text-processing-nlp-tools
 
 from tqdm import tqdm
 import jieba_fast as jieba
